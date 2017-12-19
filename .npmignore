@@ -1,0 +1,15 @@
+node_modules
+build
+envs
+coverage
+tsconfig.json
+tslint.json
+*.ts
+!*.d.ts
+
+############
+## Mac
+############
+
+# Mac crap
+.DS_Store
